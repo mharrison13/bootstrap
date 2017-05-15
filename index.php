@@ -37,7 +37,7 @@
 		<div class="sfooter-content">
 			<!-- HEADER -->
 			<header>
-				<div class="container">
+				<div class="pageheader">
 					<div class="row">
 						<div class="col-xs-12">
 							<h2>Bootstrap Challenge whattt</h2>
@@ -45,3 +45,5 @@
 					</div>
 				</div>
 			</header>
+
+
